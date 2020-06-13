@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21d3a3e5-6cd3-418a-8526-433342c69865" name="Default Changelist" comment="" />
+    <list default="true" id="21d3a3e5-6cd3-418a-8526-433342c69865" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1dFcWsla9pmLkSftnpCzMzf8uv3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,9 +36,9 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="763" y="116" width="580" height="383" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592034317853">
+    <state x="786" y="86" width="580" height="383" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592037488407">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="763" y="116" width="580" height="383" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1592034317853" />
+    <state x="786" y="86" width="580" height="383" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1592037488407" />
   </component>
 </project>
